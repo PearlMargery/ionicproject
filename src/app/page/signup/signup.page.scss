@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  
+    ion-item {
+      width: 80%;
+      margin-bottom: 20px;
+    }
+  
+    ion-button {
+      width: 80%;
+    }
+  }
