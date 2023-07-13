@@ -1,0 +1,2 @@
+# ionicproject
+Educational Assistance is given to eligible students to help defray school expenses or cost of sending students to school with priority shall be given to working students in public high school, vocational or technological schools, state colleges and universities. The users will be the applicants of the organization who have a limited access in the application. They can create an account, then fill up a form that is part of the process and attached some documents that is required to submit for the verification of their papers to make it valid.
